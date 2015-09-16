@@ -1,0 +1,98 @@
+﻿body div section header h1 p form button {
+    margin:0px;
+    padding:0px;
+} 
+body {
+    height: 470px;
+    width: 400px;
+}
+div {
+    height: 470px;
+    width: 400px;
+    background-color: #e9f5f4
+}
+header {
+    position:relative;
+    width: 140px;
+    padding-top:10px;
+    padding-left:10px;
+}
+img {
+    padding-top:10px;
+    padding-left:10px;
+}
+h1 {
+    font-size:medium;
+    font-style:normal;
+    font-weight:normal;
+    font-family:Arial;
+    position:relative;
+}
+section {
+    width:380px;
+    height: 100px;
+    position:relative;
+    border: 1px solid black;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-right:10px;
+    margin-left:10px;
+}
+p {
+    font-size:small;
+    font-style:normal;
+    font-weight:normal;
+    font-family:Arial;
+    width:225px;
+    position:relative;
+    top: -101px;
+    left: 149px;
+}
+form {
+    width: 140px;
+    position:relative;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    top: -117px;
+    left: 232px;
+    height: 33px;
+}
+.Listen {
+    width:60px;
+    height: 25px;
+    margin:4px;
+    color:#e9f5f4;
+}
+.Add {
+    width:40px;
+    height: 25px;
+    margin:4px;
+    color:#e9f5f4;
+}
+.buttons1 {
+    position:relative;
+    margin-bottom:10px;
+    margin-right:10px;
+    top: -111px;
+    left: 233px;
+    margin-top: 21px;
+}
+.buttons2 {
+    position:relative;
+    margin-bottom:10px;
+    margin-right:10px;
+    top: -102px;
+    left: 232px;
+    height: 34px;
+    width: 141px;
+}	
+button {
+	background-image: url('images/Listen.png');
+    background-color: transparent;
+	width: 50px;
+	height: 25px;
+}
+
+

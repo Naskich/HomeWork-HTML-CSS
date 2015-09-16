@@ -1,0 +1,52 @@
+﻿body {
+    background-color:#999999
+}
+header,h1 {
+    color: #FFFFCC;
+      text-align: center; 
+}
+h1 {
+    color:#FFFFCC;
+    text-align: center; 
+}
+h2 {
+    color:#FFFFCC;
+    text-align: left;
+}
+h3 {
+    color:  #FFFFFF;
+    text-align: center;
+    margin-left: 560px;
+    width: 70px;
+}
+h5 {
+    font-weight: normal;
+    font-size: xx-small;
+    text-align: left; 
+}
+ol,h3,a {
+    color:  #FFFFFF;
+    text-align:center,justify;
+    width: 1157px;
+    margin-left: 0px;
+}
+p { 
+    color: black;
+    text-align:left;
+}
+ div{
+    text-align: center,justify;
+}
+mark{
+     color: #FFFFCC;
+     background-color:#CCCCCC;
+}
+nav {
+    text-align: center;
+    margin-left: 38px;
+}
+  footer {
+    text-align: center;
+     color:black;
+}
+ 

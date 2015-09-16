@@ -1,0 +1,222 @@
+body  h1, h5, h6, p { margin: 0; padding: 0
+}
+
+header h1 { font-variant: normal;
+color: #0099FF;
+text-align: center
+}
+
+h1 span { text-decoration: underline
+}
+
+hr { height: 4px; 
+color: black
+}
+section { width: 320px; 
+position: relative;
+margin-top: 10px;
+margin-left: 5px
+}
+
+article  { width: 320px;
+font-variant: normal;
+font-weight: bold;
+font-size: 24px;
+color: black;
+position: relative;
+margin-top: 10px;
+margin-left: 5px
+}
+
+article legend { font-variant: normal;
+font-size: 24px
+}
+
+article img { float: left
+}
+
+article p { float: right;
+margin-top: 15px;
+}
+
+article h6 { margin-left: -145px; margin-top: 125px;
+vertical-align: bottom;
+font-variant: normal;
+font-size: 22px
+}
+
+article fieldset { width: 320px;
+height: 170px
+}
+
+article  { width: 320px;
+font-variant: normal;
+font-weight: bold;
+font-size: 24px;
+color: black;
+position: relative;
+margin-top: 10px;
+margin-left: 5px
+}
+
+article legend { font-variant: normal;
+font-size: 24px
+}
+
+article img { float: left
+}
+
+article p { float: right;
+margin-top: 15px;}
+
+article h6 { float: left;
+font-variant: normal;
+font-size: 22px
+}
+
+article fieldset { width: 320px;
+height: 170px
+}
+
+article  { width: 320px;
+font-variant: normal;
+font-weight: bold;
+font-size: 24px;
+color: black;
+position: relative;
+margin-top: 10px;
+margin-left: 5px
+}
+
+article legend { font-variant: normal;
+font-size: 24px
+}
+
+article img { float: left
+}
+
+article p { float: right;
+margin-top: 15px;}
+
+article h6 { text-align: center;
+font-variant: normal;
+font-size: 22px
+}
+
+article fieldset { width: 320px;
+height: 170px;
+}
+
+.s2 { width: 320px; 
+position: absolute;
+top: 1px;
+left: 335px
+}
+
+.s2 article { width: 320px;
+font-variant: normal;
+font-weight: bold;
+font-size: 24px;
+color: black;
+position: relative;
+margin-top: 0px;
+margin-left: 55px
+}
+
+.s2 article legend { font-variant: normal;
+font-size: 24px
+}
+
+.s2 article img { float: left
+}
+
+.s2 article p { float: right
+}
+
+.s2 article h6 { text-align: center;
+font-variant: normal;
+font-size: 22px
+}
+
+.s2 article fieldset { width: 320px;
+height: 170px
+}
+
+.s2 article { width: 320px;
+font-variant: normal;
+font-weight: bold;
+font-size: 24px;
+color: black;
+position: relative;
+margin-top: 10px;
+margin-left: 55px
+}
+
+.s2 article legend { font-variant: normal;
+font-size: 24px
+}
+
+.s2 article img { float: left
+}
+
+.s2 article p { float: right
+}
+
+.s2 article h6 { text-align: center;
+font-variant: normal;
+font-size: 22px
+}
+
+.s2 article fieldset { width: 320px;
+height: 170px
+}
+
+.s2 article  { width: 320px;
+font-variant: normal;
+font-weight: bold;
+font-size: 24px;
+color: black;
+position: relative;
+margin-top: 10px;
+margin-left: 55px
+}
+
+.s2 article legend { font-variant: normal;
+font-size: 24px
+}
+
+.s2 article img { float: left
+}
+
+.s2 article p { float: right
+}
+
+.s2 article h6 { text-align: center;
+font-variant: normal;
+font-size: 22px;
+}
+
+.s2 article fieldset { width: 320px;
+height: 170px
+}
+
+.bord  { width: 765px;
+height: 640px;
+position: relative;
+margin-top: 10px;
+margin-left: 5px;
+border-collapse: collapse;
+border: 1px solid black
+}
+
+.s3 { width: 290px;
+font-variant: normal;
+font-size: 24px;
+color: black;
+position: absolute;
+top: 190px;
+left: 785px
+}
+
+h5 { line-height: 24px
+}

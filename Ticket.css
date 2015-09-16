@@ -1,0 +1,21 @@
+﻿head,header,h1 {
+    color: rgba(150, 170, 181, 255);
+      font-size: large;
+      font-style: normal
+}
+body {    
+    width: 308px;
+    height: 190px;
+}
+div { 
+     background-color:#808080;
+    background-size: 100%
+}
+h3 {
+     font-style:italic;
+     font-size: small;
+     color:#FFFFFF;
+}
+h4 {
+     color: rgba(150, 170, 181, 255);
+}
